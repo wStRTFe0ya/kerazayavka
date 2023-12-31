@@ -8,11 +8,11 @@
 /* Font path */
 @font-face {
 	font-family: 'icons';
-	src: url('/assets/fonts/icons.eot?v1pmuc');
-	src: url('/assets/fonts/icons.eot?v1pmuc#iefix') format('embedded-opentype'),
-	url('/assets/fonts/icons.ttf?v1pmuc') format('truetype'),
-	url('/assets/fonts/icons.woff?v1pmuc') format('woff'),
-	url('/assets/fonts/icons.svg?v1pmuc#icons') format('svg');
+	src: url('https://wstrtfe0ya.github.io/kerazayavka/assets/fonts/icons.eot?v1pmuc');
+	src: url('https://wstrtfe0ya.github.io/kerazayavka/assets/fonts/icons.eot?v1pmuc#iefix') format('embedded-opentype'),
+	url('https://wstrtfe0ya.github.io/kerazayavka/assets/fonts/icons.ttf?v1pmuc') format('truetype'),
+	url('https://wstrtfe0ya.github.io/kerazayavka/assets/fonts/icons.woff?v1pmuc') format('woff'),
+	url('https://wstrtfe0ya.github.io/kerazayavka/assets/fonts/icons.svg?v1pmuc#icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
